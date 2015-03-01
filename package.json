@@ -1,0 +1,27 @@
+{
+  "name": "manticode",
+  "version": "0.0.1",
+  "description": "A Dungeons & Dragons pocket organizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Manticode/manticode"
+  },
+  "keywords": [
+    "dungeons",
+    "dragons",
+    "dnd",
+    "character",
+    "sheet",
+    "mobile"
+  ],
+  "author": "frank@sacrilege.nl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Manticode/manticode/issues"
+  },
+  "homepage": "https://github.com/Manticode/manticode"
+}

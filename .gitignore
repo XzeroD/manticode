@@ -1,0 +1,8 @@
+# Node dependencies
+node_modules
+
+# Bower dependencies
+app/components
+
+# Node error log
+nmp-debug.log
