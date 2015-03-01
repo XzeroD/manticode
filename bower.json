@@ -1,0 +1,36 @@
+{
+  "name": "manticode",
+  "version": "0.0.1",
+  "authors": [
+    "Frank van Vuuren <frank@sacrilege.nl>"
+  ],
+  "description": "A Dungeons & Dragons pocket organizer",
+  "main": "./app/main.coffee",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "dungeons",
+    "dragons",
+    "dnd",
+    "character",
+    "sheet",
+    "mobile"
+  ],
+  "license": "MIT",
+  "homepage": "manticode.nl",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "exoskeleton": "~0.7.0",
+    "zepto": "~1.1.6",
+    "underscore": "~1.8.2"
+  }
+}
